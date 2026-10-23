@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="240" viewBox="0 0 900 240">
+  <rect width="900" height="240" fill="#15171a"/>
+  <polygon points="24,12 876,12 888,24 888,216 876,228 24,228 12,216 12,24" fill="#1d1f26" stroke="#4c6ab1" stroke-width="2"/>
+  <polygon points="30,18 870,18 882,30 882,210 870,222 30,222 18,210 18,30" fill="none" stroke="#39476e" stroke-width="1"/>
+  <polygon points="640,12 876,12 888,24 888,216 876,228 580,228" fill="#242833"/>
+  <polygon points="700,12 876,12 888,24 888,216 876,228 640,228" fill="#394a73"/>
+  <polygon points="760,12 876,12 888,24 888,216 876,228 700,228" fill="#4c6ab1"/>
+  <polyline points="640,12 580,228" stroke="#6e98d9" stroke-width="2" fill="none"/>
+  <polyline points="700,12 640,228" stroke="#6e98d9" stroke-width="2" fill="none"/>
+  <polyline points="760,12 700,228" stroke="#6e98d9" stroke-width="2" fill="none"/>
+  <polygon points="60,160 330,160 342,172 330,184 60,184" fill="#d49038"/>
+  <polygon points="60,160 330,160" stroke="#f0b866" stroke-width="2" fill="none"/>
+  <text x="60" y="106" font-family="Consolas, 'DejaVu Sans Mono', monospace" font-size="64" font-weight="700" fill="#c9cfdc" letter-spacing="2">MrKrob00</text>
+  <text x="62" y="140" font-family="Consolas, 'DejaVu Sans Mono', monospace" font-size="20" fill="#6e98d9" letter-spacing="4">GAME DESIGNER / DEVELOPER</text>
+  <text x="62" y="208" font-family="Consolas, 'DejaVu Sans Mono', monospace" font-size="14" fill="#7d8499" letter-spacing="2">GODOT  /  GDSCRIPT  /  SHADERS  /  PYTHON</text>
+</svg>
