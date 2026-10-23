@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="170" viewBox="0 0 900 170">
+<polygon points="13,1 887,1 899,13 899,157 887,169 13,169 1,157 1,13" fill="#1d1f26" stroke="#4c6ab1" stroke-width="2"/>
+<polygon points="640,1 888,1 899,12 899,158 888,169 580,169" fill="#242833"/>
+<polygon points="720,1 888,1 899,12 899,158 888,169 660,169" fill="#394a73"/>
+<polygon points="790,1 888,1 899,12 899,158 888,169 730,169" fill="#4c6ab1"/>
+<polyline points="640,1 580,169" stroke="#6e98d9" stroke-width="2" fill="none"/>
+<polyline points="720,1 660,169" stroke="#6e98d9" stroke-width="2" fill="none"/>
+<polyline points="790,1 730,169" stroke="#6e98d9" stroke-width="2" fill="none"/>
+<polygon points="30,28 78,28 86,36 78,44 30,44" fill="#d49038"/>
+<text x="98" y="42" font-family="Consolas, 'DejaVu Sans Mono', monospace" font-size="15" font-weight="700" fill="#d49038" letter-spacing="4">СЕЙЧАС В РАБОТЕ</text>
+<text x="30" y="92" font-family="Consolas, 'DejaVu Sans Mono', monospace" font-size="42" font-weight="700" fill="#c9cfdc" letter-spacing="2">WorldTech</text>
+<text x="30" y="124" font-family="Consolas, 'DejaVu Sans Mono', monospace" font-size="15" fill="#c9cfdc">Мобильная игра про машины из блоков: оружие, буры, щиты,</text>
+<text x="30" y="146" font-family="Consolas, 'DejaVu Sans Mono', monospace" font-size="15" fill="#c9cfdc">базы, квесты, фракции</text>
+<text x="400" y="92" font-family="Consolas, 'DejaVu Sans Mono', monospace" font-size="13" fill="#7d8499" letter-spacing="2">GODOT 4.6 / GDSCRIPT</text>
+</svg>
