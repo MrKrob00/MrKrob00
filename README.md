@@ -2,27 +2,21 @@
   <img src="banner.svg" alt="MrKrob00 - game designer and developer" width="100%" />
 </p>
 
-Геймдизайнер и разработчик. Делаю мобильные игры целиком: от правил и прогрессии до шейдеров и кода.
-Главное убеждение: каждое число и каждое правило должно иметь причину, которую можно записать в документ.
+Game designer and developer. I create mobile games from the ground up: from rules and progression to shaders and code.
+My core belief is that every number and every rule should have a reason that can be documented.
 
 ---
 
-## Сейчас в работе
+## Currently in progress
 
-<a href="https://github.com/MrKrob00/terratest"><img src="now.svg" alt="WorldTech - мобильная игра про машины из блоков" width="100%" /></a>
+<a href="https://github.com/MrKrob00/terratest"><img src="now.svg" alt="WorldTech - A mobile game about block-based cars" width="100%" /></a>
 
-## Что я делаю
+## What am I doing?
 
-<img src="skills.svg" alt="Направления: геймдизайн, геймплей-код, графика, инструменты, публикация" width="100%" />
+<img src="skills.svg" alt="Focus areas: game design, gameplay code, graphics, tools, publishing" width="100%" />
 
-## Принципы
 
-- **Доки объясняют причину**, а не пересказывают действие, и обновляются вместе с поведением.
-- **Одна дверь для каждого правила.** Инвулн, энергия, урон проверяются в одном месте, а не копиями по сценам.
-- **Стиль измеряется, а не угадывается.** Палитра и формы блоков выведены замерами по моделям, а потом стали правилами.
-- **Игру нужно запускать**, а не только читать код: самотест на реальном движке перед тем, как назвать изменение безопасным.
-
-## Стек
+## Stack
 
 <p>
   <img src="https://img.shields.io/badge/Godot-4C6AB1?style=flat-square&logo=godotengine&logoColor=C9CFDC&labelColor=15171A" />
@@ -33,13 +27,13 @@
   <img src="https://img.shields.io/badge/Git-4C6AB1?style=flat-square&logo=git&logoColor=C9CFDC&labelColor=15171A" />
 </p>
 
-## Статистика
+## Statistics
 
 <p>
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=MrKrob00&show_icons=true&hide_border=true&bg_color=1d1f26&title_color=6e98d9&text_color=c9cfdc&icon_color=d49038&ring_color=4c6ab1" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrKrob00&layout=compact&hide_border=true&bg_color=1d1f26&title_color=6e98d9&text_color=c9cfdc" />
 </p>
 
-## Связь
+## Connection
 
 [mrkrob00@gmail.com](mailto:mrkrob00@gmail.com)
