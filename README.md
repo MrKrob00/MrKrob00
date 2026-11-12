@@ -9,9 +9,9 @@ My core belief is that every number and every rule should have a reason that can
 
 ## Currently in progress
 
-<a href="https://github.com/MrKrob00/terratest"><img src="now.svg" alt="WorldTech - A mobile game about block-based cars" width="100%" /></a>
+<a href="https://github.com/MrKrob00/terratest"><img src="now.svg" alt="WorldTech - Mobile game about machines built from blocks" width="100%" /></a>
 
-## What am I doing?
+## What I do
 
 <img src="skills.svg" alt="Focus areas: game design, gameplay code, graphics, tools, publishing" width="100%" />
 
@@ -34,6 +34,6 @@ My core belief is that every number and every rule should have a reason that can
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrKrob00&layout=compact&hide_border=true&bg_color=1d1f26&title_color=6e98d9&text_color=c9cfdc" />
 </p>
 
-## Connection
+## Contact
 
 [mrkrob00@gmail.com](mailto:mrkrob00@gmail.com)
