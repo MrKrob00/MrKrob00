@@ -7,9 +7,9 @@
 <polyline points="720,1 660,169" stroke="#6e98d9" stroke-width="2" fill="none"/>
 <polyline points="790,1 730,169" stroke="#6e98d9" stroke-width="2" fill="none"/>
 <polygon points="30,28 78,28 86,36 78,44 30,44" fill="#d49038"/>
-<text x="98" y="42" font-family="Consolas, 'DejaVu Sans Mono', monospace" font-size="15" font-weight="700" fill="#d49038" letter-spacing="4">СЕЙЧАС В РАБОТЕ</text>
+<text x="98" y="42" font-family="Consolas, 'DejaVu Sans Mono', monospace" font-size="15" font-weight="700" fill="#d49038" letter-spacing="4">CURRENTLY IN PROGRESS</text>
 <text x="30" y="92" font-family="Consolas, 'DejaVu Sans Mono', monospace" font-size="42" font-weight="700" fill="#c9cfdc" letter-spacing="2">WorldTech</text>
-<text x="30" y="124" font-family="Consolas, 'DejaVu Sans Mono', monospace" font-size="15" fill="#c9cfdc">Мобильная игра про машины из блоков: оружие, буры, щиты,</text>
-<text x="30" y="146" font-family="Consolas, 'DejaVu Sans Mono', monospace" font-size="15" fill="#c9cfdc">базы, квесты, фракции</text>
+<text x="30" y="124" font-family="Consolas, 'DejaVu Sans Mono', monospace" font-size="15" fill="#c9cfdc">Mobile game about machines built from blocks: weapons,</text>
+<text x="30" y="146" font-family="Consolas, 'DejaVu Sans Mono', monospace" font-size="15" fill="#c9cfdc">drills, shields, bases, quests, factions</text>
 <text x="400" y="92" font-family="Consolas, 'DejaVu Sans Mono', monospace" font-size="13" fill="#7d8499" letter-spacing="2">GODOT 4.6 / GDSCRIPT</text>
 </svg>
